@@ -4,7 +4,7 @@ import { Link as LinkRouter } from "react-router-dom";
 export const BackgroundContainer = styled.div`
   background: #71b667;
   width: 280px;
-  height: 600px;
+  height: 700px;
 `;
 
 export const UserLogo = styled.img`
